@@ -5,9 +5,3 @@ Projet de machine learning pour prédire le résultat des matchs de Ligue 1 :
 - 0 : match nul
 - -1 : victoire extérieur
 
-## Dossiers
-
-- data/ : données CSV
-- notebooks/ : notebooks Google Colab
-- scripts/ : fonctions Python
-
